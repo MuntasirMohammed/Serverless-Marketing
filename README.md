@@ -30,7 +30,9 @@ This project is a serverless email marketing solution built using AWS services l
 Application architecture: <br/>
 <img src="https://imgur.com/PB5kd7M.png" height="40%" width="40%" alt="Application Architecture"/>
 <br />
-
+Email Validation: <br/>
+<img src="https://imgur.com/XfBzuRF.png" height="80%" width="80%" alt="Application Architecture"/>
+<br />
 
 <br />
 Execution of lambda: <br/>

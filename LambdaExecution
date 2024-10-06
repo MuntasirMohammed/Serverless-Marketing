@@ -30,7 +30,7 @@ def lambda_handler(event, context):
                 Source='m1mohammed@torontomu.ca',  # Replace with your verified "From" address
                 Destination={'ToAddresses': [contact['Email']]},
                 Message={
-                    'Subject': {'Data': 'Your Weekly Tiny Tales Mail!', 'Charset': 'UTF-8'},
+                    'Subject': {'Data': 'Your Weekly Programmer's Riddle!', 'Charset': 'UTF-8'},
                     'Body': {'Html': {'Data': personalized_email, 'Charset': 'UTF-8'}}
                 }
             )

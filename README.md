@@ -24,7 +24,7 @@ This project is a serverless email marketing solution built using AWS services l
 
 
 
-<h2>Application :</h2>
+<h2>Application Walk-Through :</h2>
 
 <p align="center">
 Application architecture: <br/>

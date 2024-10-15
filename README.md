@@ -1,3 +1,5 @@
+<p align="left">
+<img src="https://imgur.com/WErkpmU.png" height="10%" width="10%" alt="Lambda"/>
 <h1>Serverless Email Marketing</h1>
 
 
